@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "drowningfish1412.dftitanite.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

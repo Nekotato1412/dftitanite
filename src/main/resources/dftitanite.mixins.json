@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "drowningfish1412.dftitanite.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnvilScreenHandlerAccessor",
+    "AnvilScreenHandlerMixin",
+    "ItemTooltipMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
